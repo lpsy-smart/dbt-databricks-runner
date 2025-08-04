@@ -35,7 +35,7 @@ build-backend = "hatchling.build"
 
 [project.urls]
 Homepage = "https://github.com/lpsy-smart/dbt-databricks-runner"
-Documentation = "https://docs.getdbt.com"
+Documentation = "https://github.com/lpsy-smart/dbt-databricks-runner"
 Repository = "https://github.com/lpsy-smart/dbt-databricks-runner"
 Issues = "https://github.com/lpsy-smart/dbt-databricks-runner/issues"
-Changelog = "https://github.com/lpsy-smart/dbt-databricks-runner/main/CHANGELOG.md"
+Changelog = "https://github.com/lpsy-smart/dbt-databricks-runner/blob/main/CHANGELOG.md"
